@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>CSS Flag Project</title>
+  <style>
+    .flag {
+      width: 900px;
+      height: 600px;
+      position: relative;
+      background-color: #CE1126;
+
+    }
+
+    .flag > div {
+      background-color: #002868;
+      height: 300px;
+      width: 100%;
+      position: absolute;
+      top: 150px;
+    }
+
+    .flag > div > div {
+      background-color: white;
+      position: absolute;
+
+      height: 200px;
+      width: 200px;
+      border-radius: 50%;
+      top: 50px;
+      left: 350px;
+    }
+
+    p {
+      font-size: 5rem;
+      color: white;
+      text-align: center;
+      padding: 0;
+      margin: 0;
+    }
+
+    .flag>div div p {
+      color: black;
+    }
+  </style>
+</head>
+<!--
+  The flag of Laos is a horizontal tricolor of red, blue, and red with a white circle in the center.
+  The blue stripe is twice as high as each red stripe.
+  The white circle is in the center of the blue stripe.
+
+  Your task is to create the flag of Laos using only HTML and CSS.
+  You can use any CSS properties you want, but you must not use any classes, ids, or elements that are not already in the HTML file.
+  You can use any CSS selectors you want, but you must not add any classes, ids, or elements to the HTML file.
+
+  The HTML file contains a div with the class "flag" and two nested divs with paragraphs inside them.
+  You can use these elements to create the flag.
+
+  The flag should look like this:
+  https://appbrewery.github.io/flag-of-laos/
+
+  Note: 
+  - Don't add any classes/ids/elements 
+  - Use what you know about combining selectors 
+  - Use CSS specificity instead.
+Don't add any classes/ids/elements 
+Use what you know about combining selectors 
+and CSS specificity instead.
+Hint 1: The flag is 900px by 600px and the circle is 200px by 200px.
+Hint 2: You can use CSS inspection to get the colors from
+https://appbrewery.github.io/flag-of-laos/
+-->
+
+<body>
+  <div class="flag">
+    <p>The Flag</p>
+    <div>
+      <div>
+        <p>of Laos</p>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>
