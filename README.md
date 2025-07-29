@@ -8,19 +8,19 @@ It includes all the projects, mini-apps, notes, and experiments I create along t
 
 ## 🚀 Course Content (Progress Tracker)
 
-| Section                        | Status  | Folder/Link                          |
-|-------------------------------|---------|--------------------------------------|
-| HTML & CSS Basics             | ✅ Done    | `01-html-css`                        |
-| Flexbox + Responsive Design   | ✅ Done    | `02-flexbox`                         |
-| Bootstrap                     | ⬜️ Pending | `03-bootstrap`                       |
-| JavaScript Basics             | ⬜️ Pending | `04-javascript-basics`              |
-| DOM Manipulation              | ⬜️ Pending | `05-dom`                             |
-| Node.js & Express             | ⬜️ Pending | `06-node-express`                    |
-| EJS & Templating              | ⬜️ Pending | `07-ejs`                             |
-| MongoDB + Mongoose            | ⬜️ Pending | `08-mongo`                           |
-| REST APIs                     | ⬜️ Pending | `09-rest-api`                        |
-| Authentication & Security     | ⬜️ Pending | `10-auth`                            |
-| Final Capstone Projects       | ⬜️ Pending | `11-projects`                        |
+| Section                        | Status  
+|-------------------------------|-----------  |
+| HTML & CSS Basics             | ✅ Done    |                      
+| Flexbox + Responsive Design   | ✅ Done    |              
+| Bootstrap                     | ✅ Done    | 
+| JavaScript Basics             | ⬜️ Pending | 
+| DOM Manipulation              | ⬜️ Pending | 
+| Node.js & Express             | ⬜️ Pending |
+| EJS & Templating              | ⬜️ Pending |
+| MongoDB + Mongoose            | ⬜️ Pending |
+| REST APIs                     | ⬜️ Pending | 
+| Authentication & Security     | ⬜️ Pending | 
+| Final Capstone Projects       | ⬜️ Pending |
 
 > ✅ = Completed | ⬜️ = In Progress / Pending
 
@@ -38,28 +38,12 @@ It includes all the projects, mini-apps, notes, and experiments I create along t
 - Authentication (OAuth, Sessions)
 - Deployment (Heroku / Render)
 
----
-
-## 📁 Folder Structure
-📦 full-stack-webdev-journey
-┣ 📂 01-html-css
-┣ 📂 02-flexbox
-┣ 📂 03-bootstrap
-┣ 📂 04-javascript-basics
-┣ 📂 05-dom
-┣ 📂 06-node-express
-┣ 📂 07-ejs
-┣ 📂 08-mongo
-┣ 📂 09-rest-api
-┣ 📂 10-auth
-┣ 📂 11-projects
-┗ 📜 README.md
 
 ---
 
 ## ✍️ Notes
 
-- Each folder contains notes + mini-projects for that module.
+- Each folder contains mini-projects for that module.
 - Live links will be added once deployed (using Vercel/Netlify/Render).
 - Code is written from scratch following Angela’s lectures.
 
