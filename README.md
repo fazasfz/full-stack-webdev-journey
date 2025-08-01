@@ -9,23 +9,30 @@ It includes all the projects, mini-apps, notes, and experiments I create along t
 ## 🚀 Course Content (Progress Tracker)
 
 | Section                        | Status  
-|-------------------------------|-----------  |
-| HTML & CSS Basics             | ✅ Done    |                      
-| Flexbox + Responsive Design   | ✅ Done    |              
-| Bootstrap                     | ✅ Done    | 
-| JavaScript Basics             | ⬜️ Pending | 
-| DOM Manipulation              | ⬜️ Pending | 
-| Node.js & Express             | ⬜️ Pending |
-| EJS & Templating              | ⬜️ Pending |
-| MongoDB + Mongoose            | ⬜️ Pending |
-| REST APIs                     | ⬜️ Pending | 
-| Authentication & Security     | ⬜️ Pending | 
-| Final Capstone Projects       | ⬜️ Pending |
+|-------------------------------|-------------------|
+| HTML & CSS Basics             | ✅ Done          |                      
+| Flexbox + Responsive Design   | ✅ Done          |              
+| Bootstrap                     | ✅ Done          | 
+| JavaScript Basics             | ✅ Done          | 
+| DOM Manipulation              | 🔄 = In Progress | 
+| Node.js & Express             | ⬜️ Pending       |
+| EJS & Templating              | ⬜️ Pending       |
+| MongoDB + Mongoose            | ⬜️ Pending       |
+| REST APIs                     | ⬜️ Pending       | 
+| Authentication & Security     | ⬜️ Pending       | 
+| Final Capstone Projects       | ⬜️ Pending       |
 
-> ✅ = Completed | ⬜️ = In Progress / Pending
+> ✅ = Completed | 🔄 = In Progress | ⬜️ =  Pending
 
 ---
+## 🌸 Visual Progress Tracker
 
+Here’s a quick glance at how far I’ve come in the course:
+
+![Progress Bar](https://img.shields.io/badge/Progress-34%25-ffcfe0?style=for-the-badge&logo=javascript&logoColor=white)
+
+
+---
 ## 🛠️ Technologies Covered
 
 - HTML5, CSS3, Flexbox, Grid, Bootstrap
