@@ -14,7 +14,7 @@ It includes all the projects, mini-apps, notes, and experiments I create along t
 | Flexbox + Responsive Design   | ✅ Done          |              
 | Bootstrap                     | ✅ Done          | 
 | JavaScript Basics             | ✅ Done          | 
-| DOM Manipulation              | 🔄 = In Progress | 
+| DOM Manipulation              | ✅ Done          | 
 | Node.js & Express             | ⬜️ Pending       |
 | EJS & Templating              | ⬜️ Pending       |
 | MongoDB + Mongoose            | ⬜️ Pending       |
