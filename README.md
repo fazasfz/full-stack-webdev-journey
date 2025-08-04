@@ -13,24 +13,19 @@ It includes all the projects, mini-apps, notes, and experiments I create along t
 | HTML & CSS Basics             | ✅ Done          |                      
 | Flexbox + Responsive Design   | ✅ Done          |              
 | Bootstrap                     | ✅ Done          | 
-| JavaScript Basics             | ✅ Done          | 
-| DOM Manipulation              | ✅ Done          | 
+| JavaScript Basics             | ✅ Done          |
+| JavaScript Intermediate       | ✅ Done          | 
+| DOM Manipulation              | 🔄 = In Progress |
+| jQuery                        | ⬜️ Pending       |
 | Node.js & Express             | ⬜️ Pending       |
 | EJS & Templating              | ⬜️ Pending       |
-| MongoDB + Mongoose            | ⬜️ Pending       |
+| APIs                          | ⬜️ Pending       |
 | REST APIs                     | ⬜️ Pending       | 
+| PostgreSQL                    | ⬜️ Pending       |
 | Authentication & Security     | ⬜️ Pending       | 
 | Final Capstone Projects       | ⬜️ Pending       |
 
 > ✅ = Completed | 🔄 = In Progress | ⬜️ =  Pending
-
----
-## 🌸 Visual Progress Tracker
-
-Here’s a quick glance at how far I’ve come in the course:
-
-![Progress Bar](https://img.shields.io/badge/Progress-34%25-ffcfe0?style=for-the-badge&logo=javascript&logoColor=white)
-
 
 ---
 ## 🛠️ Technologies Covered
@@ -40,7 +35,7 @@ Here’s a quick glance at how far I’ve come in the course:
 - DOM, Event Handling
 - Node.js, Express.js
 - EJS Templating
-- MongoDB, Mongoose
+- PostgreSQL
 - REST APIs
 - Authentication (OAuth, Sessions)
 - Deployment (Heroku / Render)
@@ -51,7 +46,6 @@ Here’s a quick glance at how far I’ve come in the course:
 ## ✍️ Notes
 
 - Each folder contains mini-projects for that module.
-- Live links will be added once deployed (using Vercel/Netlify/Render).
 - Code is written from scratch following Angela’s lectures.
 
 ---
