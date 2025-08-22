@@ -15,9 +15,9 @@ It includes all the projects, mini-apps, notes, and experiments I create along t
 | Bootstrap                     | ✅ Done          | 
 | JavaScript Basics             | ✅ Done          |
 | JavaScript Intermediate       | ✅ Done          | 
-| DOM Manipulation              | 🔄 = In Progress |
-| jQuery                        | ⬜️ Pending       |
-| Node.js & Express             | ⬜️ Pending       |
+| DOM Manipulation              | ✅ Done          | 
+| jQuery                        | ✅ Done          |
+| Node.js & Express             | 🔄 = In Progress |
 | EJS & Templating              | ⬜️ Pending       |
 | APIs                          | ⬜️ Pending       |
 | REST APIs                     | ⬜️ Pending       | 
