@@ -17,8 +17,9 @@ It includes all the projects, mini-apps, notes, and experiments I create along t
 | JavaScript Intermediate       | ✅ Done          | 
 | DOM Manipulation              | ✅ Done          | 
 | jQuery                        | ✅ Done          |
-| Node.js & Express             | ✅ Done          |
+| Node.js & Express             | 🔄 = In Progress |
 | EJS & Templating              | 🔄 = In Progress |
+| Git, Github & Version Control | 🔄 = In Progress |
 | APIs                          | ⬜️ Pending       |
 | REST APIs                     | ⬜️ Pending       | 
 | PostgreSQL                    | ⬜️ Pending       |
